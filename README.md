@@ -1,4 +1,4 @@
-# NTUA ECE - Social Network Analysis (SNA) 2024
+# NTUA ECE - Social Network Analysis (SNA) - 9th Semester
 
 ## Overview
 This repository contains lab exercises for the Social Network Analysis (SNA) course at NTUA ECE, 2024. The labs focus on fundamental network models, analysis techniques, community detection, and link prediction, applied to both synthetic and real-world networks.
